@@ -17,5 +17,3 @@ This project includes how to make a LangChain (pipeline) that supports pdf and t
 •	Dotenv
 •	PyPDFLoader
 •	TextLoader
-# Author
-Gobind Basnet, GitHub profile (https://github.com/Safal177)
